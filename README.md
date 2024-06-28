@@ -1,4 +1,4 @@
-![logo](https://github.com/crazypunk08/crazypunk08/blob/main/bg.jpeg)
+
 <h1 align="center">Hi 👋, I'm Naren Lakamannavar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="center">
